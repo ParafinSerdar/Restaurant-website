@@ -1,3 +1,3 @@
 # Restaurant-website
-This is my restaurant website thats all.
+The hottest pizza in the world.
 https://parafinserdar-restaurant-website.netlify.app/
