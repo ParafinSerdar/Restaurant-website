@@ -1,6 +1,6 @@
 # Kopernik Pizza  
 The hottest pizza in the galaxy. This is my responsive, multi-page, delisious restaurant website. I used HTML, CSS , Javascript.
-[https://kopernikpizza42.netlify.app/](https://parafinserdarkopernik.netlify.app/)
+https://parafinserdarkopernik.netlify.app/
 
 
 ![Ekran görüntüsü 2024-03-22 062242](https://github.com/parafinserdar/Kopernik-Pizza/assets/119782855/5d1896d4-bead-4b94-a41d-5064b78fb247)
